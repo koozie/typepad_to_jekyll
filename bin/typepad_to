@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift File.expand_path(File.join(File.dirname(__FILE__),'..','lib'))
+
+require 'typepad_to_jekyll'
+require 'thor'
+
+
+class Application < Thor
+
+  attr_reader :jekyll_dir, :posts_dir, :drafts_dir
+
+  desc "jekyll BACKUP DIRECTORY", "Convert Typepad Backup file to Jekyll blog posts and store in _posts sub directory"
+  long_desc <<-LONGDESC
+    `typepad_to jekyll` will parse a TypePad backup file in the MTIF file format and genereate blog posts
+    which will be stored in the jekyll sub directory of _posts of _drafts.
+
+    typepad_to jekyll BACKUP JEKYLL-DIRECTORY
+    \x5 BACKUP: the filename of your TypePad backup file.
+    \x5 JEKYLL-DIRECTORY: path to your Jekyll directory.  
+    LONGDESC
+  def jekyll(typepad_backup_filename, jekyll_directory)
+    abort "ERROR: [#{jekyll_directory}] is not a directory. " unless File.directory?(jekyll_directory)
+    app = TypepadToJekyll::Converter.new(typepad_backup_filename, jekyll_directory)
+    app.process
+  end
+
+  private
+end
+
+Application.start(ARGV)
+
+
+

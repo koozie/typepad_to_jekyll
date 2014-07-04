@@ -1,0 +1,113 @@
+AUTHOR: Chris
+TITLE: First Post
+STATUS: Draft
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 0
+BASENAME: first_post
+
+UNIQUE URL: http://www.example.org/2003/05/first_post.html 
+DATE: 05/29/2003 01:02:06 AM
+-----
+BODY:
+<p>This should be my first post to Moveable Type.  I'm still trying to figure this system out.  </p>
+
+<p>Jerry</p>
+-----
+EXTENDED BODY:
+<p>IDEAS:</p>
+
+<p>crayons<br />
+Good Technology<br />
+ONIX File Format<br />
+419 Scams<br />
+Blat Utility<br />
+Digital Camera Stuff</p>
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+COMMENT:
+AUTHOR: Troy Aikman
+EMAIL: troy@example.com
+IP: 208.201.230.101
+URL: http://troy.example.com/
+DATE: 05/30/2003 01:32:14 PM
+Easy, ain't it? :)
+laters
+-----
+--------
+AUTHOR: John Franklin McEnroe
+TITLE: Home Wi-Fi
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 1
+BASENAME: home_wifi
+CATEGORY: Hardware
+
+UNIQUE URL: http://blog.example.org/2003/01/home_wifi.html 
+DATE: 01/10/2003 01:39:35 PM
+-----
+BODY:
+<p>I put in <a href="http://www.linksys.com/Products/product.asp?grid=33&scid=35&prid=508">Linksys wireless router/access point</a> on my home network one week ago.  I quickly configured the router using its web based configuration tool.  I've also been able to get a descent signal ALL over the house.</p>
+
+<p>Wireless is just plain cool.  I can't believe I waited so long to use it.  </p>
+
+<p>-Chris</p>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+COMMENT:
+AUTHOR: Fred Mike Jones 
+EMAIL: fmj@example.com
+IP: 68.166.91.157
+URL: http://www.example.com/blog
+DATE: 08/10/2003 02:54:44 PM
+Yeah, wireless is the way to go. Mrs. Noded has here own laptop. It makes it so much easier. Here, there and everywhere. 
+
+You posting from the backyard?
+-----
+COMMENT:
+AUTHOR: mike
+EMAIL: mike@example.org
+IP: 65.70.200.35
+URL: http://www.example.org
+DATE: 08/10/2003 03:17:23 PM
+It's to freaking HOT here to be outside longer than 5 minutes.  We had tempeartures up to 108 degrees.  Maybe I'll try the outside thing this fall.
+-----
+COMMENT:
+AUTHOR: mike
+EMAIL: mike@example.net
+IP: 193.195.87.146
+URL: http://example.net
+DATE: 08/12/2003 08:58:00 AM
+Just wait until your wireless access point dies (just like mine did this week) and then you REALLY realise how much you thought of it. I got good coverage all over the house and the garden. Now I'm stuck to sitting in the office tied by a long piece of cat5 cable :-(
+-----
+COMMENT:
+AUTHOR: Mike
+EMAIL: mike@example.org
+IP: 207.8.15.210
+URL: http://www.example.org
+DATE: 08/12/2003 12:07:13 PM
+Before I had wireless, I connected two 25' cat5 cables together so I could work in the living room instead of the office. :-)
+-----
+COMMENT:
+AUTHOR: Jerry McGuire
+EMAIL: blog@example.net
+IP: 81.86.172.239
+URL: http://example.net
+DATE: 08/13/2003 04:00:09 AM
+I had something similar - a LONG piece of cable through a hole drilled in the ceiling from the upstairs office into the living room and then coiled in a big loop so it would reach anywhere downstairs if stretched across the room....that changed when I got married :-)
+-----
+--------

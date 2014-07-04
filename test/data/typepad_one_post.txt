@@ -1,0 +1,43 @@
+AUTHOR: Chris
+TITLE: First Post
+STATUS: Draft
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 0
+BASENAME: first_post
+
+UNIQUE URL: http://www.example.org/2003/05/first_post.html 
+DATE: 05/29/2003 01:02:06 AM
+-----
+BODY:
+<p>This should be my first post to Moveable Type.  I'm still trying to figure this system out.  </p>
+
+<p>Jerry</p>
+-----
+EXTENDED BODY:
+<p>IDEAS:</p>
+
+<p>crayons<br />
+Good Technology<br />
+ONIX File Format<br />
+419 Scams<br />
+Blat Utility<br />
+Digital Camera Stuff</p>
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+COMMENT:
+AUTHOR: Troy Aikman
+EMAIL: troy@example.com
+IP: 208.201.230.101
+URL: http://troy.example.com/
+DATE: 05/30/2003 01:32:14 PM
+Easy, ain't it? :)
+laters
+-----
+--------
+

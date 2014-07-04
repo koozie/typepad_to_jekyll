@@ -1,0 +1,103 @@
+AUTHOR: Frank
+TITLE: Junk Faxes: Redux
+STATUS: Draft
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 1
+BASENAME: junk_faxes
+CATEGORY: SPAM
+
+UNIQUE URL: http://www.koozie.org/2003/11/junk_faxes.html 
+DATE: 11/06/2003 05:04:49 PM
+-----
+BODY:
+<p>I found some interesting sites today about the piles and piles of junk faxes I seemed to be collecting these days.</p>
+
+<p>800-390-1403 is the so-called removal number.</p>
+
+<p>1st ad 800-891-2682 Medical Insurance<br />
+2nd ad pumps some stocks, by OTC Analysis.</p>
+
+<p>http://www.junkfaxes.org/</p>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Chris
+TITLE: All about Frank's "MIDI" Files
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 1
+BASENAME: midi_files
+CATEGORY: General IT
+CATEGORY: Programming
+
+UNIQUE URL: http://www.koozie.org/2003/11/midi_files.html 
+DATE: 11/04/2003 12:07:24 PM
+-----
+BODY:
+<p>I've been busy at work and at home with two daughters, wife and dog.  I have managed to squeeze in some playing time on the new piano.  I found a couple of articles to help me understand midi files, which is how music is stored in my digital piano.  The best analogy I found on describing midi  was midi files are like music paper rolls for player pianos.</p>
+
+<p>-Chris</p>
+
+<p><a href="http://mp3.about.com/library/weekly/aa021797.htm">What is MIDI, Anyway?</a></p>
+
+<p><a href="http://mp3.about.com/library/weekly/aa072699.htm">MIDI and MP3: What's the Difference?</a></p>
+
+<p><a href="http://mp3.about.com/b/a/037484.htm">How to Convert MIDI to MP3 or CD</a></p>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
+AUTHOR: Chris
+TITLE: Comment Spam: Here it comes again, Sue's List of "Crazy" Items
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: __default__
+ALLOW PINGS: 1
+BASENAME: first_comment_s
+CATEGORY: General IT
+
+UNIQUE URL: http://www.koozie.org/2003/11/first_comment_s.html 
+DATE: 11/04/2003 11:54:18 AM
+-----
+BODY:
+<p>I finally received my first comment spam on MT.</p>
+
+<blockquote>
+IP Address: 209.208.9.254
+Name: debt-consolidation
+Email Address: gangastrotagati[at]yahoo.com
+URL: http://www.karmicdebtconsolidation[dot]com/
+
+<p>Comments:</p>
+
+<p>Marvelous<br />
+
+
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+--------
